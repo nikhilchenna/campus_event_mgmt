@@ -46,12 +46,12 @@ Database: SQLite (via SQLAlchemy ORM)
 Tools: Postman (API testing), PowerShell/Terminal
 
 📂 Project Structure
-campus_event_mgmt/
-│
-├── app.py # Main Flask application with API endpoints
-├── models.py # Database models (SQLAlchemy ORM)
-├── campus.db # SQLite database (auto-created)
-├── README.md # Project documentation
+campus_event_mgmt/                                                    
+│                                                                                          
+├── app.py # Main Flask application with API endpoints       
+├── models.py # Database models (SQLAlchemy ORM)                                                       
+├── campus.db # SQLite database (auto-created)                                                         
+├── README.md # Project documentation                                                        
 └── requirements.txt # Python dependencies
 
 ⚙️ Setup Instructions
